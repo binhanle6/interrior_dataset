@@ -1,0 +1,43 @@
+Product_id,Name,Category,Price_vnd,image_path,product_url,Width (cm),Height (cm),diameter (cm),Depth/length (cm),style
+P01,Cây đèn trang trí | HEIMDAL (JYSK),Decor ,999.000,/Users/anbinh6/Documents/interior_data/raw_pictures/decor_1.webp,https://jysk.vn/cay-den-trang-tri-heimdal-kim-loai-nhua-den-c80cm-128led,,80.0,,,Minimalist
+P02,Cây trang trí | KVASER (JYSK),Decor ,249.000,/Users/anbinh6/Documents/interior_data/raw_pictures/decor_2.webp,https://jysk.vn/cay-trang-tri-kvaser-nhua-pe-soi-gai-xanh-la-o14xc36cm,,36.0,14.0,,Scandinavian
+P03,Vòng quấn trang trí | DIOPTAS (JYSK),Decor ,599.000,/Users/anbinh6/Documents/interior_data/raw_pictures/decor_3.webp,https://jysk.vn/vong-quan-trang-tri-dioptas-nhua-mau-vang-o30xc9cm,,9.0,30.0,,Scandinavian
+P04,Giỏ đa năng | GUSTAV (JYSK),Decor ,249.000,/Users/anbinh6/Documents/interior_data/raw_pictures/decor_4.jpg,https://jysk.vn/gio-da-nang-gustav-soi-coi-mau-tu-nhien-r26xd18xc13cm,26.0,13.0,,18.0,Scandinavian
+P05,Cây treo quần áo | FELSTED (JYSK),Decor ,999.000,/Users/anbinh6/Documents/interior_data/raw_pictures/decor_5.webp,https://jysk.vn/cay-treo-quan-ao-felsted-tre-mau-tu-nhien-r57xs57xc160cm,57.0,160.0,,57.0,Minimalist
+P06,Đèn bàn | JOACHIM (JYSK),Lighting ,1.990.000,/Users/anbinh6/Documents/interior_data/raw_pictures/lighting_1.webp,https://jysk.vn/den-ban-joachim-gom-be-den-o27xc54cm,,54.0,27.0,,Scandinavian
+P07,Đèn bàn | LIAM (JYSK),Lighting ,999.000,/Users/anbinh6/Documents/interior_data/raw_pictures/lighting_2.webp,https://jysk.vn/den-ban-liam-thep-mau-khaki-o21xc21cm,,21.0,21.0,,Classic Luxury
+P08,Ghế bành | STADIL (JYSK),Sofa ,7.900.000,/Users/anbinh6/Documents/interior_data/raw_pictures/sofa_1.jpg,https://jysk.vn/ghe-banh-stadil-vai-polyester-be-r86xs77xc78cm,86.0,78.0,,77.0,Scandinavian
+P09,Ghế bành | ANDRUP (JYSK),Sofa ,7.900.000,/Users/anbinh6/Documents/interior_data/raw_pictures/sofa_2.jpg,https://jysk.vn/ghe-banh-andrup-vai-polyester-nau-r74xs73xc75cm,74.0,75.0,,73.0,Minimalist
+P10,Đèn bàn | HANNIBAL (JYSK),Lighting ,899.000,/Users/anbinh6/Documents/interior_data/raw_pictures/lighting_3.webp,https://jysk.vn/den-ban-hannibal-tre-kim-loai-nau-o19xc25cm,,25.0,19.0,,Scandinavian
+P11,Đèn bàn | HJARNE (JYSK),Lighting ,1.190.000,/Users/anbinh6/Documents/interior_data/raw_pictures/lighting_4.webp,https://jysk.vn/den-ban-hjarne-thuy-tinh-xanh-nhat-o16xc18cm,,18.0,16.0,,Scandinavian
+P12,Ghế bàn ăn | ADSLEV (JYSK),Chair ,1.990.000,/Users/anbinh6/Documents/interior_data/raw_pictures/chair_1.jpg,https://jysk.vn/ghe-ban-an-adslev-vai-polyester-xam-r59xs59xc79cm,59.0,78.5,,58.5,Scandinavian
+P13,Ghế bàn ăn | KOKKEDAL (JYSK),Chair ,1.990.000,/Users/anbinh6/Documents/interior_data/raw_pictures/chair_2.jpg,https://jysk.vn/ghe-ban-an-kokkedal-kim-loai-vai-polyester-xam-soi-r52xs53xc82cm,52.0,84.0,,54.0,Minimalist
+P14,Ghế bàn ăn | PURHUS (JYSK),Chair ,2.490.000,/Users/anbinh6/Documents/interior_data/raw_pictures/chair_3.webp,https://jysk.vn/ghe-ban-an-purhus-kim-loai-vai-polyester-xam-den-r59xs58xc84cm,59.0,84.0,,58.0,Minimalist
+P15,Ghế bàn ăn | SOTTRUP (JYSK),Chair ,2.990.000,/Users/anbinh6/Documents/interior_data/raw_pictures/chair_4.webp,https://jysk.vn/ghe-ban-an-sottrup-vai-polyester-kim-loai-be-den-r56-5xs60xc82-5cm,56.5,82.5,,60.0,Scandinavian
+P16,Bàn cafe | RAVNSBJERG (JYSK),Table ,3.990.000,/Users/anbinh6/Documents/interior_data/raw_pictures/table_1.jpg,https://jysk.vn/ban-cafe-ravnsbjerg-go-cong-nghiep-mau-tu-nhien-r90xs90xc35cm,90.0,35.0,,,Minimalist
+P17,Bàn cafe | DOKKEDAL (JYSK),Table ,2.990.000,/Users/anbinh6/Documents/interior_data/raw_pictures/table_2.jpg,https://jysk.vn/ban-cafe-dokkedal-kim-loai-go-cong-nghiep-xam-den-r75xd115xc45cm,75.0,45.0,,115.0,Minimalist
+P18,Bàn cafe | KLARSKOV (JYSK),Table ,6.900.000,/Users/anbinh6/Documents/interior_data/raw_pictures/table_3.webp,https://jysk.vn/ban-cafe-klarskov-go-cong-nghiep-mau-soi-r60xd110xc45cm,60.0,45.0,,110.0,Minimalist
+P19,Bàn cafe | LISBJERG (JYSK),Table ,3.990.000,/Users/anbinh6/Documents/interior_data/raw_pictures/table_4.webp,https://jysk.vn/ban-cafe-lisbjerg-go-cong-nghiep-mau-soi-r60xd107xc45cm,60.0,45.0,,107.0,Minimalist
+P20,Bàn cafe | AABENRAA (JYSK),Table ,4.490.000,/Users/anbinh6/Documents/interior_data/raw_pictures/table_5.webp,https://jysk.vn/ban-cafe-aabenraa-kim-loai-go-cong-nghiep-mau-soi-den-r60xd110xc45-47cm,60.0,47.0,,110.0,Minimalist
+P21,Bàn cafe | NIELSHAVE (JYSK),Table ,2.490.000,/Users/anbinh6/Documents/interior_data/raw_pictures/table_6.webp,https://jysk.vn/ban-cafe-nielshave-go-cong-nghiep-van-da-cam-thach-o70xc45cm,70.0,45.0,,,Minimalist
+P22,Bàn cafe | VEDDE (JYSK),Table ,2.990.000,/Users/anbinh6/Documents/interior_data/raw_pictures/table_7.webp,https://jysk.vn/ban-cafe-vedde-go-cong-nghiep-mau-soi-dam-r60xd110xc45cm,110.0,45.0,,60.0,Minimalist
+P23,Bàn cafe | LUNDEBORG (JYSK),Table ,2.990.000,/Users/anbinh6/Documents/interior_data/raw_pictures/table_8.jpg,https://jysk.vn/ban-cafe-lundeborg-go-cong-nghiep-mau-da-cam-thach-r67xd84xc42cm,68.0,42.0,,85.0,Minimalist
+P24,Bàn cafe | LYNGVIG (JYSK),Table ,5.900.000,/Users/anbinh6/Documents/interior_data/raw_pictures/table_9.jpg,https://jysk.vn/ban-cafe-lyngvig-go-cong-nghiep-mau-soi-r60xd110xc45cm,60.0,45.0,,110.0,Minimalist
+P25,Bàn cafe | LYDUM (JYSK),Table ,5.900.000,/Users/anbinh6/Documents/interior_data/raw_pictures/table_10.jpg,https://jysk.vn/ban-cafe-lydum-xi-mang-be-xam-o60xc40cm,,40.0,60.0,,Minimalist
+P26,Tranh bình hoa W FLOW,Decor ,1.580.000,/Users/anbinh6/Documents/interior_data/raw_pictures/decor_6.jpg,https://nhaxinh.com/san-pham/tranh-binh-hoa-w-flow/,60.0,60.0,,,Scandinavian
+P27,Tranh chép sơn dầu SAVIO,Decor ,10.340.000,/Users/anbinh6/Documents/interior_data/raw_pictures/decor_7.jpg,https://nhaxinh.com/san-pham/tranh-chep-son-dau-savio/,198.0,158.0,,,Classic Luxury
+P28,Tranh con chim 2As,Decor ,4.700.000,/Users/anbinh6/Documents/interior_data/raw_pictures/decor_8.jpg,https://nhaxinh.com/san-pham/tranh-con-chim-2as-60x90-158961c/,60.0,90.0,,3.0,Minimalist
+P29,Tranh nghệ thuật graffiti ,Decor ,12.280.000,/Users/anbinh6/Documents/interior_data/raw_pictures/decor_9.jpg,https://nhaxinh.com/san-pham/tranh-boy-drawing-on/,102.0,102.0,,,Modern
+P30,Tranh sơn dầu kiến trúc ,Decor ,6.100.001,/Users/anbinh6/Documents/interior_data/raw_pictures/decor_10.jpg,https://nhaxinh.com/san-pham/tranh-son-dau-kien-truc-ivoirble-156520c/,90.0,90.0,,3.0,Minimalist
+P31,Chim hạt trang trí,Decor,10.080.000,/Users/anbinh6/Documents/interior_data/raw_pictures/decor_11.jpg,https://nhaxinh.com/san-pham/chim-hac-trang-tri/,,66.0,,,Classic Luxury
+P32,Đồ trang trí mặt người chân kim loại vàng,Decor ,1.940.000,/Users/anbinh6/Documents/interior_data/raw_pictures/decor_12.jpg,https://nhaxinh.com/san-pham/do-trang-tri-mat-nguoi-chan-kim-loai-vang-27331j/,10.0,28.0,,15.0,Classic Luxury
+P33,Tường đầu BUDDHA S,Decor ,1.400.000,/Users/anbinh6/Documents/interior_data/raw_pictures/decor_13.jpg,https://nhaxinh.com/san-pham/tuong-dau-buddha-s/,19.5,31.0,,20.5,Japandi
+P34,Nấm trang trí Champignon Dore Pm 158468C,Decor ,710.001,/Users/anbinh6/Documents/interior_data/raw_pictures/decor_14.jpg,https://nhaxinh.com/san-pham/den-ban-champignon-dore/,,38.0,,,Scandinavian
+P35,"Quả Địa Cầu Trắng / Vàng Lớn
+
+",Decor ,4.690.000,/Users/anbinh6/Documents/interior_data/raw_pictures/decor_15.jpg,https://nhaxinh.com/san-pham/qua-dia-cau-trang-vang-lon-15726j/,31.5,47.5,,25.5,Minimalist
+P36,Tủ tivi hà nội 2 cửa lùa,Storage ,16.900.001,/Users/anbinh6/Documents/interior_data/raw_pictures/storage_1.webp,https://nhaxinh.com/san-pham/tu-tivi-ha-noi/,160.0,55.0,,55.0,Minimalist
+P37,Tủ tivi roma,Storage ,7.500.001,/Users/anbinh6/Documents/interior_data/raw_pictures/storage_2.webp,https://nhaxinh.com/san-pham/tu-tivi-roma/,150.0,45.0,,45.0,Minimalist
+P38,Tủ tivi VICTORIA II,Storage ,36.500.000,/Users/anbinh6/Documents/interior_data/raw_pictures/storage_3.webp,https://nhaxinh.com/san-pham/tu-tivi-victoria-ii/,180.0,46.0,,44.5,Scandinavian
+P39,Kệ tivi KH AT,Storage ,37.990.000,/Users/anbinh6/Documents/interior_data/raw_pictures/storage_4.jpg,https://nhaxinh.com/san-pham/ke-tivi-kh-at/,198.0,65.0,,50.0,Classic Luxury
+P40,Tủ tivi Maxine  ,Storage ,28.830.000,/Users/anbinh6/Documents/interior_data/raw_pictures/storage_5.jpg,https://nhaxinh.com/san-pham/tu-tivi-maxine/,180.0,60.0,,45.0,Modern
